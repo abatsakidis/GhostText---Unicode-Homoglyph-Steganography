@@ -62,12 +62,13 @@ GhostText.exe encode intro.txt secret.txt stegano.txt hash.txt
 GhostText.exe decode stegano.txt hash.txt
 
 If the hashes match:
-
+```
 Expected SHA256 hash: XXXXXXXXXXXXXXXXXXXXXXXXXX
 Computed SHA256 hash: XXXXXXXXXXXXXXXXXXXXXXXXXX
 Integrity check passed.
 Extracted Message:
 hello_world
+```
 
 ## ⚠️ Notes
 
