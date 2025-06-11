@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%23%207.3-blueviolet)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Build](https://github.com/abatsakidis/GhostText/actions/workflows/dotnet.yml/badge.svg)
+![Build](https://github.com/abatsakidis/GhostText---Unicode-Homoglyph-Steganography/actions/workflows/dotnet.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 **GhostText** is a steganographic tool that hides secret messages inside regular text by replacing certain Latin characters with visually identical Unicode homoglyphs. The result is a text that looks unchanged to humans, but contains a concealed message extractable only with the proper method.
