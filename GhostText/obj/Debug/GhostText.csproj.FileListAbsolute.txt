@@ -1,0 +1,7 @@
+C:\Users\mantis\source\repos\GhostText\GhostText\obj\Debug\GhostText.csproj.AssemblyReference.cache
+C:\Users\mantis\source\repos\GhostText\GhostText\obj\Debug\GhostText.csproj.CoreCompileInputs.cache
+C:\Users\mantis\source\repos\GhostText\GhostText\bin\Debug\GhostText.exe.config
+C:\Users\mantis\source\repos\GhostText\GhostText\bin\Debug\GhostText.exe
+C:\Users\mantis\source\repos\GhostText\GhostText\bin\Debug\GhostText.pdb
+C:\Users\mantis\source\repos\GhostText\GhostText\obj\Debug\GhostText.exe
+C:\Users\mantis\source\repos\GhostText\GhostText\obj\Debug\GhostText.pdb
